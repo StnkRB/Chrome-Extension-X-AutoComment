@@ -1,0 +1,15 @@
+
+{
+  "manifest_version": 3,
+  "name": "X Draft Reply Helper",
+  "version": "1.0",
+  "description": "Inserts a randomized draft reply into X reply boxes on demand.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
