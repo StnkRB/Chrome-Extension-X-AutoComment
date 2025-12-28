@@ -1,6 +1,6 @@
 Overview
 
-X Draft Reply Helper is a lightweight Chrome extension that assists users in drafting replies on X (formerly Twitter).
+X AutoComment is a lightweight Chrome extension that assists users in drafting replies on X (formerly Twitter).
 When viewing a post, the extension allows you to insert a randomized, pre-written reply draft into the reply box with a single click.
 
 Important:
@@ -63,7 +63,7 @@ Step-by-Step Installation
 
 Clone or download this repository:
 
-git clone https://github.com/your-username/x-draft-reply-helper.git
+git clone https://github.com/your-username/Chrome-Extension-X-AutoComment.git
 
 
 Open Chrome and navigate to:
