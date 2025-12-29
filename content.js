@@ -25,7 +25,7 @@
   "definitely noticed."
   ];
 
-  function generateFlirtyReplies(count = 1000) {
+  function generateReplies(count = 1000) {
     const replies = [];
     for (let i = 0; i < count; i++) {
       const start = starters[i % starters.length];
@@ -35,7 +35,7 @@
     return replies;
   }
 
-  const replies = generateFlirtyReplies(1000);
+  const replies = generateReplies(1000);
 
 
   function getRandomReply() {
