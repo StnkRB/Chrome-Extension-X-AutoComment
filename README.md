@@ -1,4 +1,4 @@
-# Whats this project about?
+# What is this project about?
 
 In the whirlwind of festive cheer—Christmas twinkles, New Year's fireworks, and beyond—your social media feeds explode with joyful posts from friends and family, all craving those heartfelt likes and comments. Enter this revolutionary plugin: it magically pulls from a treasure trove of handcrafted, genuine replies (zero AI fakery here!), randomly sprinkling authentic warmth and wit to keep your connections sparkling without the hassle. Transform obligatory scrolling into effortless magic—wow your circle with responses that feel straight from the heart!
 
