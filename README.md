@@ -1,4 +1,4 @@
-Whats this project about?
+# Whats this project about?
 
 In the whirlwind of festive cheer—Christmas twinkles, New Year's fireworks, and beyond—your social media feeds explode with joyful posts from friends and family, all craving those heartfelt likes and comments. Enter this revolutionary plugin: it magically pulls from a treasure trove of handcrafted, genuine replies (zero AI fakery here!), randomly sprinkling authentic warmth and wit to keep your connections sparkling without the hassle. Transform obligatory scrolling into effortless magic—wow your circle with responses that feel straight from the heart!
 
@@ -6,15 +6,15 @@ In the whirlwind of festive cheer—Christmas twinkles, New Year's fireworks, an
 
 
 
-Overview
+# Overview
 
 X AutoComment is a lightweight Chrome extension that assists users in drafting replies on X (formerly Twitter).
 When viewing a post, the extension allows you to insert a randomized, pre-written reply draft into the reply box with a single click.
 
-Important:
+## Important:
 This extension does not automatically post replies. The user must manually review and submit each reply. This design ensures human control and reduces the risk of violating X’s automation and spam policies.
 
-Key Features
+# Key Features
 
 Detects when you open an individual X post (/status/ URLs)
 
@@ -26,8 +26,10 @@ Works with X’s single-page application (SPA) navigation
 
 No login handling, no API usage, no auto-submission
 
-Intended Use Cases
 
+
+# Intended Use Cases
+ 
 This extension is useful for:
 
 Social media managers engaging manually with many posts
