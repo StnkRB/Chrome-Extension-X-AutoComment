@@ -40,7 +40,8 @@ Users who want reply templates without repetitive typing
 
 Semi-automated workflows where human approval is required
 
-Example Scenarios
+
+## Example Scenarios
 
 Drafting courteous acknowledgments on industry posts
 
@@ -62,14 +63,14 @@ Scrape data or collect user credentials
 
 Any attempt to modify it for full automation may violate platform policies and is strongly discouraged.
 
-Installation
-Prerequisites
+# Installation
+## Prerequisites
 
 Google Chrome (or Chromium-based browser)
 
 Developer mode enabled for extensions
 
-Step-by-Step Installation
+## Step-by-Step Installation
 
 Clone or download this repository:
 
@@ -89,7 +90,7 @@ Select the root folder of this repository
 
 The extension will now appear in your extensions list and activate automatically on x.com.
 
-How to Use
+## How to Use
 
 Navigate to https://x.com
 
@@ -121,7 +122,7 @@ The extension randomly selects from predefined replies such as:
 
 These can be fully customized in content.js.
 
-Customization
+## Customization
 Modify Reply Texts
 
 Edit the replies array in content.js:
@@ -144,7 +145,7 @@ Size
 
 Border radius
 
-Technical Details
+## Technical Details
 
 Built using Manifest V3
 
@@ -172,7 +173,7 @@ X Automation and Spam Policies
 
 Applicable laws and regulations
 
-Known Limitations
+## Known Limitations
 
 X DOM structure changes may require selector updates
 
@@ -180,7 +181,7 @@ Only works on individual post pages (/status/)
 
 Does not support replies in timelines or notifications without opening the post
 
-Future Enhancements (Optional)
+## Future Enhancements (Optional)
 
 Potential improvements include:
 
@@ -193,8 +194,6 @@ Daily usage limits
 Confirmation dialog before insertion
 
 Multiple reply tone profiles
-
-License
 
 MIT License
 Use, modify, and distribute responsibly.
